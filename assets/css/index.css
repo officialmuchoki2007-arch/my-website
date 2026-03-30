@@ -1,5 +1,4 @@
-/*===== GOOGLE FONTS =====*/
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
 /*===== VARIABLES CSS =====*/
 :root {
   --header-height: 3rem;
@@ -48,7 +47,6 @@ body {
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   color: var(--second-color);
-  background-color: rgb(219, 177, 60);
 }
 
 h1, h2, p {
@@ -184,7 +182,6 @@ img {
   position: relative;
   row-gap: 5rem;
   padding: 4rem 0 5rem;
-  
 }
 .home__data {
   align-self: center;
@@ -306,8 +303,6 @@ img {
 }
 .skills__img {
   border-radius: 0.5rem;
-  width: 100px;
-  height: auto;
 }
 
 /* ===== WORK =====*/
